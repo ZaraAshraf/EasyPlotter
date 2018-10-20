@@ -4,7 +4,7 @@ An Easy plotter that can plot multiple CSV files.
 A simple graph plotter that uses numpy and matplotlib to plot a simple 2D graph.
 >I built this because I had an objective in a university course to compare betweeen different Algorithms' runtimes given different number of inputs through plotting graphs in Microsoft Excel, and since I'm lazy and broke I decided to take the easy way and plot through this python script I wrote , But I cleaned it a bit and made it usable so here it is.
 
->It also has multiple colors and stuff
+>The plotter supports various colors 
 ***
 ![alt text](https://github.com/InEdited/EasyPlotter/blob/master/Plots.png)
 ## Installing requirements 
